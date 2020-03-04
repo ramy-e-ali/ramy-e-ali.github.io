@@ -20,12 +20,12 @@ light gray: #ededed
 	background-color:#003366;
 	}
 #electrical #department h1.whichDepartment {
-	border-color:#BBCAE8;
+	border-color:#FFFFFF;
 	}
 
 /*** HORIZONTAL NAV BAR (ALL PAGES) ***/
 #electrical #primaryNavigation {
-	background-color:#BBCAE8; /* THIS COLORS THE HORIZONTAL NAV BAR BACKGROUND */
+	background-color:#FFFFFF; /* THIS COLORS THE HORIZONTAL NAV BAR BACKGROUND */
 	}
 #electrical #primaryNavigation li.active a {
 	color:#003366; /* THIS COLORS THE TEXT IN THE ACTIVE LINK */
@@ -36,15 +36,15 @@ light gray: #ededed
 	background:#003366;
 	}
 #electrical #secondaryNavigation li.active a {
-	background:#BBCAE8;
+	background:#FFFFFF;
 	}
 
 /*** FIRST COLUMN SUBNAVIGATION (ALL PAGES) ***/
 #electrical #subNavigation {
-	border-bottom:solid 10px #BBCAE8;
+	border-bottom:solid 10px #FFFFFF;
 	}
 #electrical #subNavigation h1 {
-	background-color:#BBCAE8;
+	background-color:#FFFFFF;
 	}
 	
 /*** SECOND COLUMN (HOME PAGE ONLY) ***/
@@ -72,10 +72,10 @@ body.threeColumn #secondColumn #copy h1.no-blurb {
 	
 /*** EXTENDED NAVIGATION (INNER PAGE, THREE COLUMN LAYOUT) ***/
 body.threeColumn #extendedNavigation {
-	border-bottom:solid 10px #BBCAE8;
+	border-bottom:solid 10px #FFFFFF;
 	}
 body.threeColumn #extendedNavigation h1 {
-	background-color:#BBCAE8;
+	background-color:#FFFFFF;
 	}
 		
 /*** RELATED LINKS (INNER PAGE, THREE COLUMN LAYOUT) ***/
@@ -85,7 +85,7 @@ body.threeColumn #extendedNavigation h1 {
 
 /*** WIDE COLUMN (INNER PAGE, TWO COLUMN LAYOUT ***/
 #electrical #blurb {
-	background-color:#BBCAE8;
+	background-color:#FFFFFF;
 	}
 #electrical #wideColumn #copy h2 {
 	color:#003366;
@@ -93,7 +93,7 @@ body.threeColumn #extendedNavigation h1 {
 	
 /*** THIRD COLUMN (HOME PAGE ONLY) ***/
 #electrical #featureStory h1, #electrical #upcomingEvents h1 {
-	background:url(../images/lineThickVertical.gif) no-repeat 7px 6px #BBCAE8;
+	background:url(../images/lineThickVertical.gif) no-repeat 7px 6px #FFFFFF;
 	}
 #electrical #upcomingEvents .event h2 {	
 	color:#003366;
@@ -101,5 +101,5 @@ body.threeColumn #extendedNavigation h1 {
 
 /*** FACULTY PROFILE ***/
 #electrical #profileHeading {
-	background-color:#BBCAE8;
+	background-color:#FFFFFF;
 	}
