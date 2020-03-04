@@ -20,7 +20,7 @@ light gray: #ededed
 	background-color:#003366;
 	}
 #electrical #department h1.whichDepartment {
-	border-color:#FFFFFF;
+	border-color:#003366;
 	}
 
 /*** HORIZONTAL NAV BAR (ALL PAGES) ***/
@@ -41,7 +41,7 @@ light gray: #ededed
 
 /*** FIRST COLUMN SUBNAVIGATION (ALL PAGES) ***/
 #electrical #subNavigation {
-	border-bottom:solid 10px #FFFFFF;
+	border-bottom:solid 10px #BBCAE8;
 	}
 #electrical #subNavigation h1 {
 	background-color:#FFFFFF;
