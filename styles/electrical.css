@@ -25,7 +25,7 @@ light gray: #ededed
 
 /*** HORIZONTAL NAV BAR (ALL PAGES) ***/
 #electrical #primaryNavigation {
-	background-color:#FFFFFF; /* THIS COLORS THE HORIZONTAL NAV BAR BACKGROUND */
+	background-color:#BBCAE8; /* THIS COLORS THE HORIZONTAL NAV BAR BACKGROUND */
 	}
 #electrical #primaryNavigation li.active a {
 	color:#003366; /* THIS COLORS THE TEXT IN THE ACTIVE LINK */
