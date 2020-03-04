@@ -20,7 +20,7 @@ light gray: #ededed
 	background-color:#003366;
 	}
 #electrical #department h1.whichDepartment {
-	border-color:#BBCAE8;
+	border-color:#FFFFFF;
 	}
 
 /*** HORIZONTAL NAV BAR (ALL PAGES) ***/
@@ -36,7 +36,7 @@ light gray: #ededed
 	background:#003366;
 	}
 #electrical #secondaryNavigation li.active a {
-	background:#BBCAE8;
+	background:#FFFFFF;
 	}
 
 /*** FIRST COLUMN SUBNAVIGATION (ALL PAGES) ***/
@@ -44,7 +44,7 @@ light gray: #ededed
 	border-bottom:solid 10px #BBCAE8;
 	}
 #electrical #subNavigation h1 {
-	background-color:#BBCAE8;
+	background-color:#FFFFFF;
 	}
 	
 /*** SECOND COLUMN (HOME PAGE ONLY) ***/
@@ -93,7 +93,7 @@ body.threeColumn #extendedNavigation h1 {
 	
 /*** THIRD COLUMN (HOME PAGE ONLY) ***/
 #electrical #featureStory h1, #electrical #upcomingEvents h1 {
-	background:url(../images/lineThickVertical.gif) no-repeat 7px 6px #BBCAE8;
+	background:url(../images/lineThickVertical.gif) no-repeat 7px 6px #FFFFFF;
 	}
 #electrical #upcomingEvents .event h2 {	
 	color:#003366;
