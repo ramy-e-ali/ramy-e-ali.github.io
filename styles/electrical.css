@@ -14,7 +14,7 @@ light gray: #ededed
 */
 
 #electrical #department {  /* THIS EXTENDS THE RULE IN THE PENN STATE MARK - MUST BE RECOLORED IF BACKGROUND COLOR CHANGES */
-	background:url(../images/logoLine.gif) no-repeat left top;
+	/ background: no-repeat left top;
 	}
 #electrical #masthead, #electrical #footer {
 	background-color:#003366;
