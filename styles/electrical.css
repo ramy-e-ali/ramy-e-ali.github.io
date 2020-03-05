@@ -2,22 +2,15 @@
 /* CSS Document */
 
 /* 	INFO 
-
 COLORS
 dark blue: #003366
-green: #BBCAE8
-orange: #336699
-midnight: #4c4c4c
-gray: #d2d2d2 
-light gray: #ededed
-
 */
 
 #electrical #department {  /* THIS EXTENDS THE RULE IN THE PENN STATE MARK - MUST BE RECOLORED IF BACKGROUND COLOR CHANGES */
 	/ background: no-repeat left top;
 	}
 #electrical #masthead, #electrical #footer {
-	background-color:#003366;
+	background-color:#FFFFFF;
 	}
 #electrical #department h1.whichDepartment {
 	border-color:#FFFFFF;
