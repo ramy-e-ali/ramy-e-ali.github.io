@@ -1,41 +1,16 @@
-@charset "utf-8";
-/* CSS Document */
 
-/* INFO
-PAGE WIDTH: 1000 px
-BLURB WIDTH: 676 px
-
-GENERIC COLORS:
-dark blue: #003366
-orange: #336699
-midnight: #4c4c4c
-gray: #d2d2d2                    previously d2d2dd2
-light gray: #ededed
-
-SPECIFIC COLORS (change in specific.css):
-Option 1: #6c92c8 (light blue)
-Option 2: #8ab3e5 (light blue)
-Option 3: #8dbfd9 (light blue)
-Option 4: #86bfbf (teal)
-Option 5: #86bf94 (green)
-Option 6: #6ab06a (green)
-Option 7: #9cb37d (green)
-Option 8: #a699bf (purple)
-Option 9: #d9c14c (gold)
-
-previous font-size:62.5%;
-
-
-*/
-
-/*** UNIVERSAL STYLES ***/
 body {
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:85%;
 	font-weight:normal;
 	background-color:white ;
+	padding-bottom: 8px;
+	margin: 0;
+
 
 	}
+
+
 a {
 	color:#336699; /* THIS SETS DEFAULT COLOR FOR LINKS */
 	text-decoration:none;
@@ -46,13 +21,75 @@ a:hover {
 br.clear {
 	clear:both;
 	}
-h1, h2 {
-	font-weight:normal;
-	}
+h2, h3 {
+	color: #527bbd;
+	margin-top: 0.7em;
+	margin-bottom: 0.3em;
+	padding-bottom: 0.2em;
+	line-height: 1.0;
+	padding-top: 0.5em;
+	border-bottom: 1px solid #aaaaaa;
+}
+
+h1 {
+	font-size: 165%;
+}
+
+h2 {
+	padding-top: 0.8em;
+	font-size: 125%;
+}
+
+h2 + h3 {
+    padding-top: 0.2em;
+}
+
+h3 {
+	font-size: 110%;
+	border-bottom: none;
+}
+
+p {
+	margin-top: 0.0em;
+	margin-bottom: 0.8em;
+	padding: 0;
+	line-height: 1.3;
+}
+pre {
+	padding: 0;
+	margin: 0;
+}
+
+
+p + ul, p + ol {
+	margin-top: -0.5em;
+}
+
+li ul, li ol {
+	margin-top: -0.3em;
+}
+
+ol {
+	list-style-position: outside;
+	list-style-type: decimal;
+}
+
+li p, dd p {
+	margin-bottom: 0.3em;
+}
+
+
+ol ol {
+	list-style-type: lower-alpha;
+}
+
+ol ol ol {
+	list-style-type: lower-roman;
+}
 	
 /*** WRAP ***/
 #wrap {
-	margin-left:150px;
+	margin-left:100px;
 	margin-right:100px;
 	width:1000px;
 	}
@@ -822,9 +859,12 @@ body.threeColumn #relatedLinks {
 		}
 
 /*** TABLES ***/
+
 #table {
 	margin:0 14px 20px 11px;
 	padding-top:7px;
+	border-collapse: collapse;
+
 	}
 	#table tr th {
 		background-color:#ededed;
@@ -898,3 +938,8 @@ table.sample td {
 	background-color: white;
 	-moz-border-radius: 0px 0px 0px 0px;
 }
+
+
+
+
+
