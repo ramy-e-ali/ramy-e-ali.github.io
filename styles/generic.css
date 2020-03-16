@@ -21,6 +21,10 @@ a:hover {
 br.clear {
 	clear:both;
 	}
+	
+	
+
+	
 h2, h3 {
 	color: #527bbd;
 	margin-top: 0.7em;
@@ -550,7 +554,7 @@ body.index #secondColumn #copy p { /* STYLES INTRO PARAGRAPHS */
 	letter-spacing:-.05em;
 	padding:9px 0;
 	text-align:center;
-	width:1000px;
+	width:875px;
 	}
 	#footer a {
 		color:#fff;
