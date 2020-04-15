@@ -5,8 +5,8 @@ body {
 	font-weight:normal;
 	background-color:white ;
 	padding-bottom: 8px;
-	margin: 0;
-
+    margin-left:auto; 
+    margin-right:auto;
 
 	}
 
@@ -913,7 +913,8 @@ body.threeColumn #relatedLinks {
 /*** TABLES ***/
 
 #table {
-	margin:0 14px 20px 11px;
+	margin-left:auto; 
+    margin-right:auto;
 	padding-top:7px;
 	border-collapse: collapse;
 
