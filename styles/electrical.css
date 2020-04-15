@@ -34,7 +34,7 @@ dark blue: #003366
 
 /*** FIRST COLUMN SUBNAVIGATION (ALL PAGES) ***/
 #electrical #subNavigation {
-	border-bottom:solid 5px #FFFFFF;
+	border-bottom:solid 5px DarkRed;
 	}
 #electrical #subNavigation h1 {
 	background-color:#FFFFFF;
@@ -65,7 +65,7 @@ body.threeColumn #secondColumn #copy h1.no-blurb {
 	
 /*** EXTENDED NAVIGATION (INNER PAGE, THREE COLUMN LAYOUT) ***/
 body.threeColumn #extendedNavigation {
-	border-bottom:solid 10px #FFFFFF;
+	border-bottom:solid 10px DarkRed;
 	}
 body.threeColumn #extendedNavigation h1 {
 	background-color:#FFFFFF;

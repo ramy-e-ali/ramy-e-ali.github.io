@@ -71,7 +71,7 @@ div#footer {
 	border-top: 1px solid #c0c0c0;
 	padding-top: 0.1em;
 	margin-top: 4.0em;
-	color: #c0c0c0;
+	color: DarkRed;
 }
 
 div#footer a {
@@ -189,7 +189,7 @@ ol ol ol {
 	#search form {
 		}
 		#searchSelect {
-			border:1px solid #afafaf;
+			border:1px solid DarkRed;
 			margin:0 0 2px 0;
 			width:181px;
 			}
@@ -269,7 +269,7 @@ ol ol ol {
 		font-size:2.2em;
 		line-height:1.1em;		
 		padding:0 0 5px 0;
-		border-bottom:solid 1px #fff;
+		border-bottom:solid 1px DarkRed;
 		}
 	#department.tagline p {
 		padding:5px 0 15px 0;
@@ -292,7 +292,7 @@ ol ol ol {
 		font-size:2.2em;
 		line-height:1.1em;		
 		padding:0 0 5px 0;
-		border-bottom:solid 1px #fff;
+		border-bottom:solid 1px DarkRed;
 		}	
 		
 /*** CONTENT ***/
@@ -345,7 +345,7 @@ ol ol ol {
 	font-size:1.2em;
 	padding:20px 0;
 	width:192px;
-	border-top:solid 1px #d2d2d2 ;
+	border-top:solid 1px DarkRed ;
 	}
 #formNavigation { /* THIS STYLES THE QUICK LINKS DROPDOWN MENU */
 	}
@@ -367,7 +367,7 @@ ol ol ol {
 	}
 #secondaryNavigation li {
 	line-height:1.5em;
-	border-bottom:1px solid #d2d2d2 ;
+	border-bottom:1px solid DarkRed ;
 	}
 #secondaryNavigation li a {
 	display:block;
@@ -439,7 +439,7 @@ ol ol ol {
 #secondColumn {
 	float:left;
 	width:351px;
-	border-top:solid 1px #d2d2d2 ;
+	border-top:solid 1px DarkRed ;
 	}
 body.index #secondColumn #copy {
 	margin:18px 0 0 0;
@@ -476,7 +476,7 @@ body.index #secondColumn #copy p { /* STYLES INTRO PARAGRAPHS */
 	width:auto;
 	}
 .story img {
-	border:1px solid #4c4c4c;
+	border:1px solid DarkRed;
 	float:left;
 	margin:0 7px 0 0;
 	}
@@ -491,7 +491,7 @@ body.index #secondColumn #copy p { /* STYLES INTRO PARAGRAPHS */
 	float:left;
 	width:229px;
 	padding:0 0 50px 0;
-	border-top:solid 1px #d2d2d2 ;
+	border-top:solid 1px DarkRed ;
 	}
 #featureStory {
 	margin:0 0 7px 3px;
@@ -570,7 +570,7 @@ body.index #secondColumn #copy p { /* STYLES INTRO PARAGRAPHS */
 #wideColumn {
 	float:left;
 	width:683px;
-	border-top:solid 1px #d2d2d2 ;
+	border-top:solid 1px DarkRed ;
 	padding-top:20px;
 	}
 #blurb {
@@ -645,7 +645,7 @@ body.index #secondColumn #copy p { /* STYLES INTRO PARAGRAPHS */
 		color:#4c4c4c;
 		}
 	#wideColumn #copy img {
-		border:0px solid #4c4c4c;
+		border:0px solid DarkRed;
 		float:left;
 		margin:4px 7px 0 7px;
 		}
@@ -684,11 +684,11 @@ body.index #secondColumn #copy p { /* STYLES INTRO PARAGRAPHS */
 		margin:0 0 22px 7px;
 		padding:0 15px 0 0;
 		clear:left;
-		border-top:solid 1px #d2d2d2 ;
+		border-top:solid 1px DarkRed ;
 		}
 		#wideColumn #copy .profile img {
 			float:left;
-			border:solid 1px #4c4c4c;
+			border:solid 1px DarkRed;
 			margin:5px 10px 5px 0;
 			}
 		#wideColumn #copy .profile h2 {
@@ -710,14 +710,14 @@ body.index #secondColumn #copy p { /* STYLES INTRO PARAGRAPHS */
 
 /*** SECOND COLUMN (INNER PAGE, THREE COLUMN LAYOUT) ***/
 #secondColumn #copy img {
-	border:1px solid #4c4c4c;
+	border:1px solid DarkRed;
 	float:left;
 	margin:4px 7px 0 7px;
 	}
 body.threeColumn #secondColumn {
 	float:left;
 	width:398px;
-	border-top:solid 1px #d2d2d2 ;
+	border-top:solid 1px DarkRed ;
 	padding-top:20px;
 	}
 	body.threeColumn #secondColumn #blurb {
@@ -821,7 +821,7 @@ body.threeColumn #extendedNavigation {
 		font-size:13px;
 		line-height:12px;
 		padding:7px 0 5px 15px;
-		border-top:1px solid #b4b4b4;
+		border-top:1px solid DarkRed;
 		}
 	body.threeColumn #extendedNavigation li ul {
 		padding:7px 0 0 0;
@@ -921,7 +921,7 @@ body.threeColumn #relatedLinks {
 	}
 	#table tr th {
 		background-color:#ededed;
-		border:1px solid #4c4c4c;
+		border:1px solid DarkRed;
 		padding:4px;
 		text-align:center;
 		font-weight:bold;
@@ -930,12 +930,12 @@ body.threeColumn #relatedLinks {
 		text-align:left;
 		}
 	#table tr td {
-		border:1px solid #4c4c4c;
+		border:1px solid DarkRed;
 		padding:4px;
 		text-align:center;
 		}
 	#table tr td.left {
-		border:1px solid #4c4c4c;
+		border:1px solid DarkRed;
 		padding:4px;
 		text-align:left;
 		}
@@ -971,7 +971,7 @@ table.sample {
 	border-width: 1px;
 	border-spacing: 2px;
 	border-style: outset;
-	border-color: gray;
+	border-color: DarkRed;
 	border-collapse: separate;
 	background-color: white;
 }
@@ -979,7 +979,7 @@ table.sample th {
 	border-width: 1px;
 	padding: 1px;
 	border-style: inset;
-	border-color: gray;
+	border-color: DarkRed;
 	background-color: white;
 	-moz-border-radius: 0px 0px 0px 0px;
 }
@@ -987,7 +987,7 @@ table.sample td {
 	border-width: 1px;
 	padding: 1px;
 	border-style: inset;
-	border-color: gray;
+	border-color: DarkRed;
 	background-color: white;
 	-moz-border-radius: 0px 0px 0px 0px;
 }
