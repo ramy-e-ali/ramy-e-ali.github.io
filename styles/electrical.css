@@ -21,7 +21,7 @@ dark blue: #003366
 	background-color:#FFFFFF; /* THIS COLORS THE HORIZONTAL NAV BAR BACKGROUND */
 	}
 #electrical #primaryNavigation li.active a {
-	color:#003366; /* THIS COLORS THE TEXT IN THE ACTIVE LINK */
+	color: DarkRed; /* THIS COLORS THE TEXT IN THE ACTIVE LINK */
 	}
 
 /*** FIRST COLUMN SECONDARY NAVIGATION (ALL PAGES) ***/
@@ -42,25 +42,25 @@ dark blue: #003366
 	
 /*** SECOND COLUMN (HOME PAGE ONLY) ***/
 #electrical #copy h1 {
-	color:#003366;
+	color: DarkRed;
 	}
 #electrical #latestNews h1 {
 	color:#003366;
 	}
 #electrical #latestNews h2 {
-	color:#003366;
+	color: DarkRed;
 	}
 
 /*** SECOND COLUMN (INNER PAGE, THREE COLUMN LAYOUT) ***/
 
 body.threeColumn #secondColumn #copy h1 {
-	color:#003366;
+	color: DarkRed;
 	}
 body.threeColumn #secondColumn #copy h2 {
-	color:#003366;
+	color: DarkRed;
 	}
 body.threeColumn #secondColumn #copy h1.no-blurb {
-	color:#003366;
+	color: DarkRed;
 	}
 	
 /*** EXTENDED NAVIGATION (INNER PAGE, THREE COLUMN LAYOUT) ***/
@@ -73,7 +73,7 @@ body.threeColumn #extendedNavigation h1 {
 		
 /*** RELATED LINKS (INNER PAGE, THREE COLUMN LAYOUT) ***/
 #electrical #relatedLinks {
-	background-color:#003366;
+	background-color: DarkRed;
 	}
 
 /*** WIDE COLUMN (INNER PAGE, TWO COLUMN LAYOUT ***/
@@ -81,7 +81,7 @@ body.threeColumn #extendedNavigation h1 {
 	background-color:#FFFFFF;
 	}
 #electrical #wideColumn #copy h2 {
-	color:#003366;
+	color: DarkRed;
 	}
 	
 /*** THIRD COLUMN (HOME PAGE ONLY) ***/
@@ -89,7 +89,7 @@ body.threeColumn #extendedNavigation h1 {
 	background:url(../images/lineThickVertical.gif) no-repeat 7px 6px #FFFFFF;
 	}
 #electrical #upcomingEvents .event h2 {	
-	color:#003366;
+	color: DarkRed;
 	}
 
 /*** FACULTY PROFILE ***/

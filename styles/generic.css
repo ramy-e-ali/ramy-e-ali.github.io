@@ -12,7 +12,7 @@ body {
 
 
 a {
-	color:#336699; /* THIS SETS DEFAULT COLOR FOR LINKS */
+	color: DarkRed; /* THIS SETS DEFAULT COLOR FOR LINKS */
 	text-decoration:none;
 	}
 a:hover {
@@ -26,7 +26,7 @@ br.clear {
 
 	
 h2, h3 {
-	color: #527bbd;
+	color: DarkRed;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -36,7 +36,7 @@ h2, h3 {
 }
 
 h1 {
-
+    color: DarkRed;
 	font-size: 165%;
 }
 
@@ -352,7 +352,7 @@ ol ol ol {
 	#formNavigation h1 {
 		font-weight:normal;
 		margin:0 0 8px 15px;
-		color:#336699;
+		color:DarkRed;
 		}
 	#formNavigation form {
 		margin:0 0 13px 15px;
@@ -379,7 +379,7 @@ ol ol ol {
 	}
 #secondaryNavigation a {
 	/*color:#4c4c4c;*/
-	color:#000055;
+	color: Black;
 	font-weight:bold;
 	
 	}
