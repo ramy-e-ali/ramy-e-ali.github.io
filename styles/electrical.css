@@ -26,7 +26,7 @@ dark blue: #003366
 
 /*** FIRST COLUMN SECONDARY NAVIGATION (ALL PAGES) ***/
 #electrical #secondaryNavigation a:hover {
-	background:#003366;
+	background: DarkRed;
 	}
 #electrical #secondaryNavigation li.active a {
 	background:#FFFFFF;
@@ -45,7 +45,7 @@ dark blue: #003366
 	color: DarkRed;
 	}
 #electrical #latestNews h1 {
-	color:#003366;
+	color: DarkRed;
 	}
 #electrical #latestNews h2 {
 	color: DarkRed;
