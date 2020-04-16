@@ -75,7 +75,7 @@ div#footer {
 }
 
 div#footer a {
-	color: #80a0b0;
+	color: DarkRed;
 }
 
 div#footer-text {
@@ -678,7 +678,7 @@ body.index #secondColumn #copy p { /* STYLES INTRO PARAGRAPHS */
 		line-height:16px;
 		margin:0 7px 16px 7px;
 		padding:0;
-		color:#4c4c4c;
+		color:DarkRed;
 		}
 	#wideColumn #copy .profile {
 		margin:0 0 22px 7px;
