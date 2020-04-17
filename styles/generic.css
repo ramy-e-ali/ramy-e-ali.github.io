@@ -1,7 +1,7 @@
 
 body {
 	font-family:  Sans-serif;
-	font-size:85%;
+	font-size:90%;
 	font-weight:normal;
 	background-color:white ;
 	padding-bottom: 8px;
@@ -42,7 +42,7 @@ h1 {
 
 h2 {
 	padding-top: 0.8em;
-	font-size: 150%;
+	font-size: 160%;
 }
 
 h2 + h3 {
@@ -50,7 +50,7 @@ h2 + h3 {
 }
 
 h3 {
-	font-size: 110%;
+	font-size: 130%;
 	border-bottom: none;
 }
 
@@ -632,7 +632,7 @@ body.index #secondColumn #copy p { /* STYLES INTRO PARAGRAPHS */
 		margin:0 0 10px 0;
 		}
 	#wideColumn #copy h2 {
-		font-size:14px;
+		font-size:18px;
 		font-weight:normal;
 		margin:10px 0 0 7px;
 		padding:0 8px 4px 0;
