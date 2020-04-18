@@ -442,7 +442,7 @@ ol ol ol {
 	border-top:solid 1px DarkRed ;
 	}
 body.index #secondColumn #copy {
-	margin:18px 0 0 0;
+	margin:30px 0 0 0;
 	width:auto;
 	}
 body.index #secondColumn #copy h1 { /* STYLES HEADING TO INTRO PARAGRAPHS */
@@ -569,13 +569,13 @@ body.index #secondColumn #copy p { /* STYLES INTRO PARAGRAPHS */
 /*** WIDE COLUMN (INNER PAGE, TWO COLUMN LAYOUT) ***/
 #wideColumn {
 	float:left;
-	width:683px;
+	width:750px;
 	border-top:solid 1px DarkRed ;
 	padding-top:20px;
 	}
 #blurb {
 	margin:10px 0 0 7px;
-	width:676px;
+	width:750px;
 	height:40px;
 	}
 	#blurb img {
@@ -602,7 +602,7 @@ body.index #secondColumn #copy p { /* STYLES INTRO PARAGRAPHS */
 #no-blurb {
 	margin:0 0 0 7px;
 	width:676px;
-	height:200px;
+	height:192px;
 	}
 	#no-blurb img {
 		width:526px;
@@ -618,7 +618,7 @@ body.index #secondColumn #copy p { /* STYLES INTRO PARAGRAPHS */
 		}
 #wideColumn #copy {
 	margin:0 0 0 5px;
-	width:676px;
+	width:750px;
 	}
 	#wideColumn #copy h1 {
 		font-size:15px;
@@ -872,7 +872,7 @@ body.threeColumn #relatedLinks {
 /*** FACULTY PROFILE ***/
 #profileHeading {
 	margin:0 0 0 7px;
-	width:676px;
+	width:750px;
 	height:176px;
 	}
 	#profileHeading img {
