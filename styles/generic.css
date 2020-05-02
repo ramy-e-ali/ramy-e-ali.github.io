@@ -1,7 +1,7 @@
 
 body {
 	font-family:  Sans-serif;
-	font-size:100%;
+	font-size:95%;
 	font-weight:normal;
 	background-color:white ;
 	padding-bottom: 8px;
@@ -10,6 +10,9 @@ body {
 
 	}
 
+img {
+  border-radius: 50%;
+}
 
 a {
 	color: DarkRed; /* THIS SETS DEFAULT COLOR FOR LINKS */
