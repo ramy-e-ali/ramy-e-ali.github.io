@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU.txt}{publications.html}
 = Ramy E. Ali
 Postdoctoral Research Associate
+~~~
+{}{img_left}{google-scholar.png}{alt text}{200px}{40px}{https://scholar.google.com/citations?user=FLJ86DwAAAAJ&hl=en}
+~~~
 
 == Journal Papers
 . Saeid Sahraei, A. Salman Avestimehr and Ramy E. Ali, Info-Commit: Information-Theoretic Polynomial Commitment, IEEE Transactions on Information Forensics & Security, Submitted, 2021.
