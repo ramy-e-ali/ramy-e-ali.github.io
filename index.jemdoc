@@ -3,7 +3,7 @@
 Postdoctoral Research Associate
 
 ~~~
-{}{img_left}{home_photo.jpg}{alt text}{180px}{180pxpx}{IMGLINKTARGET}
+{}{img_left}{home_photo.jpg}{alt text}{200px}{200px}{IMGLINKTARGET}
 \n
 \n
  Ramy E. Ali \n
@@ -23,8 +23,9 @@ Before that, I received the M.Sc. degree in wireless communications from Wireles
 
 
 
+~~~
 
-== Recent News and Talks
+== News and Talks
 
 - June 2021: A preprint on Secure Aggregation, Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning
 
@@ -43,6 +44,7 @@ Before that, I received the M.Sc. degree in wireless communications from Wireles
 - June 2019: Our work, Harnessing Correlations in Distributed Erasure-Coded Key-Value Stores has been accepted in IEEE Transactions on Communications.
 
 - August 2018: Talk on Erasure-Coded Key-Value Stores with Side Information, Bell Labs, NJ
+~~~
 
 == Service
 - TPC Member for IEEE GLOBECOM 2020, 2021 and IEEE WCNC 2021
