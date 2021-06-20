@@ -1,0 +1,50 @@
+# jemdoc: menu{MENU.txt}{index.html}
+= Ramy E. Ali
+Postdoctoral Research Associate
+
+~~~
+{}{img_left}{home_photo.jpg}{alt text}{180px}{180pxpx}{IMGLINKTARGET}
+\n
+\n
+ Ramy E. Ali \n
+ Postdoctoral Research Associate \n
+ University of Southern California \n
+ Office: 532, Ming Hsieh Department of Electrical Engineering \n
+         Los Angeles, CA 90089 \n
+ E-mail: reali at usc dot edu
+~~~ 
+== About Me
+I am a postdoctoral researcher at the Electrical Engineering Department, University of Southern California working with Prof. Salman Avestimehr. 
+I currently work on distributed computing, secure and private machine learning. Beside that, my research interests also include distributed systems, information theory and wireless communications.
+
+I received the Ph.D. degree in electrical engineering from Penn State in 2020. 
+Before that, I received the M.Sc. degree in wireless communications from Wireless Intelligent Networks Center (WINC), Nile University, Egypt, in 2014 and the B.Sc. degree in electrical engineering from Alexandria University, Alexandria, Egypt, in 2011.
+
+
+
+
+
+== Recent News and Talks
+
+- June 2021: A preprint on Secure Aggregation, Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning
+
+- January 2021: A preprint on List-Decodable Coded Computing: Breaking the Adversarial Toleration Barrier
+
+- January 2021: Consistency Analysis of Replication-Based Probabilistic Key-Value Stores has been accepted in ICC 2021.
+
+- October 2020: Our work, On Polynomial Approximations for Privacy-Preserving and Verifiable ReLU Networks has been accepted in the NeurIPS Workshop on Privacy Preserving Machine Learning (PPML & PRIML).
+
+- February 2020: Our work, Fundamental Limits of Erasure-Coded Key-Value Stores with Side Information has been accepted in IEEE Transactions on Communications.
+
+- January 2020: Our work, Hierarchical Deep Double Q-Routing, has been accepted in ICC 2020.
+
+- October 2019: Talk on Scalable Routing with Deep Reinforcement Learning, Bell Labs, NJ
+
+- June 2019: Our work, Harnessing Correlations in Distributed Erasure-Coded Key-Value Stores has been accepted in IEEE Transactions on Communications.
+
+- August 2018: Talk on Erasure-Coded Key-Value Stores with Side Information, Bell Labs, NJ
+
+== Service
+- TPC Member for IEEE GLOBECOM 2020, 2021 and IEEE WCNC 2021
+- Reviewer for NeurIPS, ICML, ICLR, IEEE Transactions on Information Theory, IEEE Wireless Communication Letters, IEEE Transactions on Wireless Communication
+
