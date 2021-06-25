@@ -1,9 +1,12 @@
 Ramy E. Ali
 
-    About me [index.html]
-
-Research  [research.html]
-Publications     [publications.html]
-    
-
-Teaching     [teaching.html]
+Home
+           About Me [index.html]
+           Biography [biography.html]
+Research 
+           Research Projects [research.html]
+           Publications      [publications.html]
+           
+Teaching   
+           Teaching Assistant [teaching.html]
+           Instructor [instructor.html]
