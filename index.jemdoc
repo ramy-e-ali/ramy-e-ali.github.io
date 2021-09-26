@@ -41,7 +41,7 @@ Resilient and Robust Prediction Serving Systems]
 
 - January 2021: [https://arxiv.org/pdf/2002.06098.pdf Consistency Analysis of Replication-Based Probabilistic Key-Value Stores] has been accepted in ICC 2021.
 
-- October 2020: Our work, On Polynomial Approximations for Privacy-Preserving and Verifiable ReLU Networks has been accepted in the NeurIPS Workshop on Privacy Preserving Machine Learning (PPML & PRIML) ([https://arxiv.org/pdf/2011.05530.pdf Extended Version]).
+- October 2020: Our work, On Polynomial Approximations for Privacy-Preserving and Verifiable ReLU Networks has been accepted in the NeurIPS Workshop on Privacy Preserving Machine Learning (PPML & PRIML) ([https://arxiv.org/pdf/2011.05530.pdf Extended Version], [https://ramy-e-ali.github.io/PPML20.pdf Slides]).
 
 - February 2020: Our work, [https://ieeexplore.ieee.org/document/9039569 Fundamental Limits of Erasure-Coded Key-Value Stores with Side Information] has been accepted in IEEE Transactions on Communications.
 
@@ -51,7 +51,7 @@ Resilient and Robust Prediction Serving Systems]
 
 - June 2019: Our work, Harnessing Correlations in Distributed Erasure-Coded Key-Value Stores has been accepted in IEEE Transactions on Communications.
 
-- August 2018: Talk on Erasure-Coded Key-Value Stores with Side Information, Bell Labs, NJ
+- August 2018: Talk on Erasure-Coded Key-Value Stores with Side Information, Bell Labs, NJ ([https://ramy-e-ali.github.io/Ramy-Ali-UNIX50.pdf Slides])
 ~~~
 
 
