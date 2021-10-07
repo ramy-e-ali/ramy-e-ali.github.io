@@ -27,6 +27,11 @@ I am currently on the academic job market.
 
 == News and Talks
 
+- October 2021: A preprint on secure aggregation, [https://arxiv.org/pdf/2110.02177.pdf Secure Aggregation for Buffered Asynchronous
+Federated Learning]
+- October 2021: A preprint on leveraging TEEs in privacy-preserving ML, [https://arxiv.org/pdf/2110.01229.pdf AsymML: An Asymmetric Decomposition Framework for Privacy-Preserving
+DNN Training and Inference]
+
 - September 2021: A preprint on straggler-resilient and Byzantine-robust inference, [https://arxiv.org/pdf/2109.09868.pdf ApproxIFER: A Model-Agnostic Approach to
 Resilient and Robust Prediction Serving Systems]
 
