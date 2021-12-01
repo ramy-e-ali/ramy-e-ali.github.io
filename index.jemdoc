@@ -26,7 +26,8 @@ I am currently on the academic job market.
 ~~~
 
 == News and Talks
-
+- November 2021: [https://arxiv.org/pdf/2109.09868.pdf ApproxIFER: A Model-Agnostic Approach to
+Resilient and Robust Prediction Serving Systems] has been accepted at AAAI-2022.
 - November 2021: I've presented LightSecAgg, along with Jinhyun So, Chaoyang He and Salman Avestimehr at Facebook AI Research (FAIR) ([https://ramy-e-ali.github.io/LightSecAgg.pdf Slides])
 - October 2021: Our work on asynchronous secure aggregation, [https://arxiv.org/pdf/2110.02177.pdf Secure Aggregation for Buffered Asynchronous
 Federated Learning], has been accepted at NeurIPS NFFL Workshop.	
