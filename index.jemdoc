@@ -26,25 +26,22 @@ I am currently on the academic job market.
 ~~~
 
 == News and Talks
+- December 2021: I've presented Multi-RoundSecAgg, at the Private AI Institute ([https://ramy-e-ali.github.io/Multi-RoundSecAgg.pdf Slides])
+
 - November 2021: [https://arxiv.org/pdf/2109.09868.pdf ApproxIFER: A Model-Agnostic Approach to
 Resilient and Robust Prediction Serving Systems] has been accepted at AAAI-2022.
+
 - November 2021: I've presented LightSecAgg, along with Jinhyun So, Chaoyang He and Salman Avestimehr at Facebook AI Research (FAIR) ([https://ramy-e-ali.github.io/LightSecAgg.pdf Slides])
+
 - October 2021: Our work on asynchronous secure aggregation, [https://arxiv.org/pdf/2110.02177.pdf Secure Aggregation for Buffered Asynchronous
 Federated Learning], has been accepted at NeurIPS NFFL Workshop.	
+
 - October 2021: A preprint on leveraging TEEs in privacy-preserving ML, [https://arxiv.org/pdf/2110.01229.pdf AsymML: An Asymmetric Decomposition Framework for Privacy-Preserving
 DNN Training and Inference]
-
-- September 2021: A preprint on straggler-resilient and Byzantine-robust inference, [https://arxiv.org/pdf/2109.09868.pdf ApproxIFER: A Model-Agnostic Approach to
-Resilient and Robust Prediction Serving Systems]
 
 - July 2021:  [https://arxiv.org/pdf/2101.11653.pdf List-Decodable Coded Computing: Breaking the Adversarial Toleration Barrier] has been accepted in JSAIT.
 
 - July 2021: A preprint on Coded Computing, [https://arxiv.org/pdf/2107.12958.pdf Verifiable Coded Computing: Towards Fast, Secure and Private Distributed Machine Learning]
-
-
-- June 2021: A preprint on Secure Aggregation, [https://arxiv.org/pdf/2106.03328.pdf Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning]
-
-- January 2021: A preprint on [https://arxiv.org/pdf/2101.11653.pdf List-Decodable Coded Computing: Breaking the Adversarial Toleration Barrier]
 
 - January 2021: [https://arxiv.org/pdf/2002.06098.pdf Consistency Analysis of Replication-Based Probabilistic Key-Value Stores] has been accepted in ICC 2021.
 
