@@ -18,6 +18,8 @@ Postdoctoral Research Associate
 == Conference Papers 
 . Mahdi Soleymani, Ramy E. Ali, Hessam Mahdavifar, A. Salman Avestimehr, [https://arxiv.org/pdf/2109.09868.pdf ApproxIFER: A Model-Agnostic Approach to
 Resilient and Robust Prediction Serving Systems], AAAI-2022, Vancouver, BC, Canada.
+. Tingting Tang, Ramy E. Ali, Hanieh Hashemi, Tynan Gangwani, Salman Avestimehr and Murali Annavaram,
+  [https://arxiv.org/pdf/2107.12958.pdf Verifiable Coded Computing: Towards Fast, Secure and Private Distributed Machine Learning],  IEEE International Parallel and Distributed Processing Symposium (IPDPS) 2022.
 . Chien-Sheng Yang, Jinhyun So, Chaoyang He, Songze Li, Qian Yu, Ramy E. Ali, Basak Guler
 and Salman Avestimehr, LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning, 2021. 
 . Jinhyun So, Ramy E. Ali, Basak Guler and A. Salman Avestimehr, [https://arxiv.org/pdf/2110.02177.pdf Secure Aggregation for Buffered Asynchronous
@@ -25,8 +27,6 @@ Federated Learning], NeurIPS 2021 Workshop on New Frontiers in Federated Learnin
 Privacy, Fairness, Robustness, Personalization and Data Ownership. 
 . Yue Niu, Ramy E. Ali and A. Salman Avestimehr, [https://arxiv.org/pdf/2110.01229.pdf AsymML: An Asymmetric Decomposition Framework for Privacy-Preserving
 DNN Training and Inference]
-. Tingting Tang, Ramy E. Ali, Hanieh Hashemi, Tynan Gangwani, Salman Avestimehr and Murali Annavaram,
-  [https://arxiv.org/pdf/2107.12958.pdf Verifiable Coded Computing: Towards Fast, Secure and Private Distributed Machine Learning], IPDPS 2022.
 . Mahdi Soleymani, Ramy E. Ali, Hessam Mahdavifar, A. Salman Avestimehr, List-Decodable Coded Computing: Breaking the Adversarial Toleration Barrier, in IEEE ISIT, Melbourne, Victoria, Australia, July 2021.
 . Ramy E. Ali, [https://arxiv.org/pdf/2002.06098.pdf Consistency Analysis of Replication-Based Probabilistic Key-Value Stores], Proceedings of IEEE International Conference on Communications (ICC), Montreal, Canada, June 2021.
 . Ramy E. Ali \*, Jinhyun So \* and A. Salman Avestimehr, [https://arxiv.org/pdf/2011.05530.pdf On Polynomial Approximations for Privacy-Preserving and Verifiable ReLU Networks], NeurIPS Workshop on Privacy Preserving Machine Learning (PPML & PRIML), Dec 2020 ([https://ramy-e-ali.github.io/PPML20.pdf  More Recent Slides]). 
