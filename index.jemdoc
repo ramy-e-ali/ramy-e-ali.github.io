@@ -12,12 +12,14 @@ Staff Research Engineer
  E-mail: ramy dot ali at samsung dot com
 ~~~ 
 == About Me
-I am a staff research engineer at Samsung, San Diego. I was a postdoctoral researcher at the Electrical Engineering Department, University of Southern California working with [https://www.avestimehr.com/ Prof. Salman Avestimehr] from 2020 to 2022. 
+I am a Staff Researcher in the Multi-media and Cellular lab at Samsung, San Diego working on next generation wireless communication and machine learning systems. I was a postdoctoral researcher at the Electrical Engineering Department, University of Southern California working with [https://www.avestimehr.com/ Prof. Salman Avestimehr] from 2020 to 2022. 
 I currently work on secure and private machine learning and wireless communications.
 
 ~~~
 
 == News and Talks
+
+- November 2022: [https://arxiv.org/pdf/2106.03328.pdf Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning] has been accepted at AAAI-2023. 
 
 - August 2022: Our work "On multi-round Privacy in Federated Learning" has been accepted at Asilomar'22.
 - May 2022: Our work "3LegRace: Privacy-Preserving DNN Training over TEEs and GPUs” has been accepted at PETS'22.
