@@ -19,9 +19,11 @@ I currently work on secure and private machine learning and wireless communicati
 
 == News and Talks
 
+
 - November 2022: [https://arxiv.org/pdf/2106.03328.pdf Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning] has been accepted at AAAI-2023. 
 
 - August 2022: Our work "On multi-round Privacy in Federated Learning" has been accepted at Asilomar'22.
+
 - May 2022: Our work "3LegRace: Privacy-Preserving DNN Training over TEEs and GPUs” has been accepted at PETS'22.
 
 - March 2022: Our work, [https://arxiv.org/pdf/2002.00559.pdf InfoCommit: Information-Theoretic Polynomial Commitment], has been accepted at T-IFS.
@@ -54,15 +56,6 @@ DNN Training and Inference]
 
 - October 2020: Our work, On Polynomial Approximations for Privacy-Preserving and Verifiable ReLU Networks has been accepted in the NeurIPS Workshop on Privacy Preserving Machine Learning (PPML & PRIML) ([https://arxiv.org/pdf/2011.05530.pdf Extended Version], [https://ramy-e-ali.github.io/PPML20.pdf Slides]).
 
-- February 2020: Our work, [https://ieeexplore.ieee.org/document/9039569 Fundamental Limits of Erasure-Coded Key-Value Stores with Side Information] has been accepted in IEEE Transactions on Communications.
-
-- January 2020: Our work, [https://arxiv.org/pdf/1910.04041.pdf Hierarchical Deep Double Q-Routing], has been accepted in ICC 2020.
-
-- October 2019: Talk on Scalable Routing with Deep Reinforcement Learning, Bell Labs, NJ ([https://ramy-e-ali.github.io/Ramy-Ali-UNIX50.pdf Slides])
-
-- June 2019: Our work, Harnessing Correlations in Distributed Erasure-Coded Key-Value Stores has been accepted in IEEE Transactions on Communications.
-
-- August 2018: Talk on Erasure-Coded Key-Value Stores with Side Information, Bell Labs, NJ ([https://ramy-e-ali.github.io/Ramy-Side-Information.pdf Slides]) 
 ~~~
 
 
