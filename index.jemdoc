@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU.txt}{index.html}
 = Ramy E. Ali
-Staff Research Engineer
+Staff Researcher
 
 ~~~
 {}{img_left}{home_photo.jpg}{alt text}{180px}{180px}{}
@@ -13,14 +13,14 @@ Staff Research Engineer
 ~~~ 
 == About Me
 I am a Staff Researcher in the Multi-media and Cellular lab at Samsung, San Diego working on next generation wireless communication and machine learning systems. I was a postdoctoral researcher at the Electrical Engineering Department, University of Southern California working with [https://www.avestimehr.com/ Prof. Salman Avestimehr] from 2020 to 2022. 
-I currently work on secure and private machine learning and wireless communications.
+I currently work on secure and private machine learning, model compression and wireless communications.
 
 ~~~
 
 == News and Talks
 
 
-- February '23: [https://arxiv.org/pdf/2312.05264.pdf All Rivers Run to the Sea: Private Learning with Asymmetric Flows] has been accepted at CVPR and also presented at ITA [https://ramy-e-ali.github.io/Delta.pdf Slides]
+- February '24: [https://arxiv.org/pdf/2312.05264.pdf All Rivers Run to the Sea: Private Learning with Asymmetric Flows] has been accepted at CVPR and also presented at ITA [https://ramy-e-ali.github.io/Delta.pdf Slides]
 
 - November '22: [https://arxiv.org/pdf/2106.03328.pdf Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning] has been accepted at AAAI-2023. 
 
