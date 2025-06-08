@@ -1,12 +1,12 @@
 # jemdoc: menu{MENU.txt}{publications.html}
 = Ramy E. Ali
-Staff Research Engineer
+Staff Researcher 
 ~~~
 {}{img_left}{google-scholar.png}{alt text}{200px}{40px}{https://scholar.google.com/citations?user=FLJ86DwAAAAJ&hl=en}
 ~~~
 
 == Patents
-. R. E. Ali, M. Awadin and JH Bae, Fine-tuning Learning-based Wireless Models, US Patent, 2025. 
+. R. E. Ali, M. Awadin and JH Bae, Online Fine-tuning of Learning-based Wireless Models, US Patent, 2025. 
 . R.E. Ali and H. Kwon, Improving RI and CQI Leaning-based Selection through Online Adaption and Legacy Combining, US Patent, 2025
 . H. Kwon, M. Mahmoud, F. Penna, Y. Zhou, R.E. Ali, Method and Apparatus for Learning-based Channel Matrix Prediction, US Patent 20,240,063,852, 2024.
 
