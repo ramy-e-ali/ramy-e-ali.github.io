@@ -20,6 +20,9 @@ I currently work on secure and private machine learning, model compression and w
 == News and Talks
 
 
+
+- September '25: Talk at John Hopkins University, APL, on On-Device Learning for Communication Systems and Computer Vision 
+
 - May '25: Talk at Nile University on Resource-Constrained ML and Secure Aggregation
 
 - February '25: Talk at ORNL on Private Learning with Asymmetric Flows and Multi-Round Secure Aggregation
@@ -38,8 +41,6 @@ I currently work on secure and private machine learning, model compression and w
 
 - January '22: [https://arxiv.org/pdf/2106.03328.pdf Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning] has been accepted at FL-AAAI workshop, 2022. 
 
-- December '21:  [https://arxiv.org/pdf/2107.12958.pdf Verifiable Coded Computing: Towards Fast, Secure and Private Distributed Machine Learning] has been accepted at IPDPS 2022.
-
 
 - December '21: I've presented Multi-RoundSecAgg, at the Private AI Institute ([https://ramy-e-ali.github.io/Multi-RoundSecAgg.pdf Slides])
 
@@ -48,18 +49,6 @@ Resilient and Robust Prediction Serving Systems] has been accepted at AAAI-2022.
 
 - November '21: I've presented LightSecAgg, along with Jinhyun So, Chaoyang He and Salman Avestimehr at Facebook AI Research (FAIR) ([https://ramy-e-ali.github.io/LightSecAgg.pdf Slides])
 
-- October '21: Our work on asynchronous secure aggregation, [https://arxiv.org/pdf/2110.02177.pdf Secure Aggregation for Buffered Asynchronous
-Federated Learning], has been accepted at NeurIPS NFFL Workshop.	
-
-- October '21: A preprint on leveraging TEEs in privacy-preserving ML, [https://arxiv.org/pdf/2110.01229.pdf AsymML: An Asymmetric Decomposition Framework for Privacy-Preserving
-DNN Training and Inference]
-
-- July '21:  [https://arxiv.org/pdf/2101.11653.pdf List-Decodable Coded Computing: Breaking the Adversarial Toleration Barrier] has been accepted in JSAIT.
-
-
-- January '21: [https://arxiv.org/pdf/2002.06098.pdf Consistency Analysis of Replication-Based Probabilistic Key-Value Stores] has been accepted in ICC 2021.
-
-- October '20: Our work, On Polynomial Approximations for Privacy-Preserving and Verifiable ReLU Networks has been accepted in the NeurIPS Workshop on Privacy Preserving Machine Learning (PPML & PRIML) ([https://arxiv.org/pdf/2011.05530.pdf Extended Version], [https://ramy-e-ali.github.io/PPML20.pdf Slides]).
 
 ~~~
 
