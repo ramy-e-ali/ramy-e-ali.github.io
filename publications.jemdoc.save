@@ -1,0 +1,54 @@
+# jemdoc: menu{MENU.txt}{publications.html}
+= Ramy E. Ali
+Staff Researcher 
+~~~
+{}{img_left}{google-scholar.png}{alt text}{200px}{40px}{https://scholar.google.com/citations?user=FLJ86DwAAAAJ&hl=en}
+~~~
+
+== Patents
+. R. E. Ali and F. Penna, Backpropagation-free Buffer-less Online Fine-tuning of Learning-based Wireless Models, US Patent, 2025.
+. R. E. Ali, M. Awadin and JH Bae, Online Fine-tuning of Learning-based Wireless Models, US Patent, 2025. 
+. R.E. Ali and H. Kwon, Improving RI and CQI Leaning-based Selection through Online Adaption and Legacy Combining, US Patent, 2025
+. H. Kwon, M. Mahmoud, F. Penna, Y. Zhou, R.E. Ali, Method and Apparatus for Learning-based Channel Matrix Prediction, US Patent 20,240,063,852, 2024.
+
+== Journal Papers
+. Saeid Sahraei, A. Salman Avestimehr and Ramy E. Ali, [https://arxiv.org/pdf/2002.00559.pdf Info-Commit: Information-Theoretic Polynomial Commitment],
+ IEEE Transactions on Information Forensics and Security, 2022.
+. Mahdi Soleymani, Ramy E. Ali, Hessam Mahdavifar, A. Salman Avestimehr, [https://arxiv.org/pdf/2101.11653.pdf List-Decodable Coded Computing: Breaking the Adversarial Toleration Barrier],
+ IEEE Journal on Selected Areas in Information Theory (JSAIT), 2021.
+. Ramy E. Ali and Viveck R. Cadambe, [https://ieeexplore.ieee.org/abstract/document/9039569 Fundamental Limits of Erasure-Coded Key-Value Stores with Side Information], IEEE Transactions on Communications, 2020.
+. Ramy E. Ali and Viveck R. Cadambe, [https://ieeexplore.ieee.org/document/8737969 Harnessing Correlations in Distributed Erasure-Coded Key-Value Stores], IEEE Transactions on Communications, 2019.
+
+
+== Conference Papers
+.  Ramy E. Ali and Federico Penna, LightTune: Lightweight Online Fine-tuning for 6G, under review, 2025.
+.  Yue Niu, Ramy E. Ali, Saurav Prakash and Salman Avestimehr, [https://arxiv.org/pdf/2312.05264.pdf All Rivers Run to the Sea: Private Learning with Asymmetric Flows
+], Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024. 
+. Jinhyun So \*, Ramy E. Ali \*, Basak Guler, Jiantao Jiao and A. Salman Avestimehr, [https://arxiv.org/pdf/2106.03328.pdf Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning], AAAI-2023 (Acceptance Rate 19.6%). 
+. August Deer, Ramy E. Ali and A. Salman Avestimehr, On Multi-Round Privacy in Federated Learning, Asilomar, 2022 (Part of the High School Apprenticeship, Summer 2021). 
+. Chien-Sheng Yang, Jinhyun So, Chaoyang He, Songze Li, Qian Yu, Ramy E. Ali, Basak Guler
+and Salman Avestimehr, [https://arxiv.org/pdf/2109.14236.pdf LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning], MLSys 2022, (Acceptance Rate 20.6%), ([https://ramy-e-ali.github.io/LightSecAgg.pdf Slides]). 
+. Jinhyun So \*, Ramy E. Ali \*, Basak Guler, Jiantao Jiao and A. Salman Avestimehr, [https://arxiv.org/pdf/2106.03328.pdf Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning], FL-AAAI workshop, 2022. 
+. Mahdi Soleymani, Ramy E. Ali, Hessam Mahdavifar, A. Salman Avestimehr, [https://arxiv.org/pdf/2109.09868.pdf ApproxIFER: A Model-Agnostic Approach to
+Resilient and Robust Prediction Serving Systems], AAAI-2022, Vancouver, BC, Canada (Acceptance Rate 15%).
+. Tingting Tang, Ramy E. Ali, Hanieh Hashemi, Tynan Gangwani, Salman Avestimehr and Murali Annavaram,
+  [https://arxiv.org/pdf/2107.12958.pdf Verifiable Coded Computing: Towards Fast, Secure and Private Distributed Machine Learning],  IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2022 (1st Round Acceptance Rate 9.7%).
+. Jinhyun So, Ramy E. Ali, Basak Guler and A. Salman Avestimehr, [https://arxiv.org/pdf/2110.02177.pdf Secure Aggregation for Buffered Asynchronous
+Federated Learning], NeurIPS 2021 Workshop on New Frontiers in Federated Learning (NFFL):
+Privacy, Fairness, Robustness, Personalization and Data Ownership. 
+. Yue Niu, Ramy E. Ali and A. Salman Avestimehr, [https://arxiv.org/pdf/2110.01229.pdf AsymML: An Asymmetric Decomposition Framework for Privacy-Preserving
+DNN Training and Inference]
+. Mahdi Soleymani, Ramy E. Ali, Hessam Mahdavifar, A. Salman Avestimehr, List-Decodable Coded Computing: Breaking the Adversarial Toleration Barrier, in IEEE ISIT, Melbourne, Victoria, Australia, July 2021.
+. Ramy E. Ali, [https://arxiv.org/pdf/2002.06098.pdf Consistency Analysis of Replication-Based Probabilistic Key-Value Stores], Proceedings of IEEE International Conference on Communications (ICC), Montreal, Canada, June 2021.
+. Ramy E. Ali \*, Jinhyun So \* and A. Salman Avestimehr, [https://arxiv.org/pdf/2011.05530.pdf On Polynomial Approximations for Privacy-Preserving and Verifiable ReLU Networks], NeurIPS Workshop on Privacy Preserving Machine Learning (PPML & PRIML), Dec 2020 ([https://ramy-e-ali.github.io/PPML20.pdf  More Recent Slides]). 
+. Ramy E. Ali, Bilgehan Erman, Ejder Bastug and Bruce Cilli, [https://arxiv.org/pdf/1910.04041.pdf Hierarchical Deep Double Q-Routing], Proceedings of IEEE International Conference on Communications (ICC), Dublin, Ireland, June 2020.
+. Ramy E. Ali and Viveck R. Cadambe, Multi-version Coding with Side Information, in IEEE ISIT, Vail, Colorado, USA, June 2018.
+. Ramy E. Ali, Viveck R. Cadambe, Consistent Distributed Storage of Correlated Data Updates Via Multi-version Coding, in IEEE ITW, Cambridge, United Kingdom, September 2016.
+. Ramy E. Ali, Hany Elgala, [https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9954/995406/Energy-efficient-LED-layout-optimization-for-near-uniform-illumination/10.1117/12.2235262.pdf?casa_token=IFg6QsrQlA4AAAAA:0P5eAB8PtX1IxIKFOw2o2TOBZZqu5xU6Pju47PYavotDX5gOAlqv9kFUltbSZUVglh-x905xcg Energy Efficient LED Layout Optimization for Near-Uniform Illumination], in the Fifteenth International Conference on Solid State Lighting and LED-based Illumination Systems (SPIE Optical Engineering+ Applications), San Diego, California August 2016. (Newport Research Excellence Award)
+. Ramy E. Ali, Fadel Digham, Karim G. Seddik, Mohamed Nafie, Amr El-Keyi and Zhu Han, [https://arxiv.org/pdf/1408.2779.pdf A Probabilistic MAC for Cognitive Radio Systems with Energy Harvesting Nodes], IEEE GlobalSIP, Atlanta, Georgia, USA, Dec. 2014.
+. Ramy E. Ali, Karim G. Seddik, Mohamed Nafie and Fadel Digham, [https://arxiv.org/pdf/1312.5555.pdf A Pricing-based Cooperative Spectrum Sharing Stackelberg Game], in Proceedings of WiOpt, Hammamet, Tunisia, May 2014.
+
+== Ph.D. Dissertation
+- Harnessing Data Correlation and Network Information in Distributed Key-Value Stores, Penn State, 2020.
+== M.Sc. Dissertation
+- On Dynamic Spectrum Sharing: Pricing and Energy-Based Secondary Spectrum Access, Nile University, 2014.
