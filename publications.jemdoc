@@ -5,14 +5,11 @@ Staff Researcher
 {}{img_left}{google-scholar.png}{Google Scholar profile}{200px}{40px}{https://scholar.google.com/citations?user=FLJ86DwAAAAJ&hl=en}
 ~~~
 
-== Patents
-. R. E. Ali and F. Penna,  Backpropagation-free Buffer-less Online Fine-tuning of Learning-based Wireless Models, US Patent, 2025.
-.  M. Awadin, R. E. Ali and JH Bae, Online Fine-tuning of Learning-based Wireless Models, US Patent, 2025. 
-. R.E. Ali and H. Kwon, Improving RI and CQI Leaning-based Selection through Online Adaption and Legacy Combining, US Patent, 2025
-. H. Kwon, M. Mahmoud, F. Penna, Y. Zhou, R.E. Ali, Method and Apparatus for Learning-based Channel Matrix Prediction, US Patent 20,240,063,852, 2024.
+
 
 == Journal Papers
-. Ramy E. Ali and Federico Penna, LightTune: Lightweight Forward-Only Online Fine-Tuning with Applications to Link Adaptation, 2026.
+. Ramy E. Ali and Federico Penna, [https://arxiv.org/pdf/2604.12406.pdf
+LightTune: Lightweight Forward-Only Online Fine-Tuning with Applications to Link Adaptation], 2026.
 . Saeid Sahraei, A. Salman Avestimehr and Ramy E. Ali, [https://arxiv.org/pdf/2002.00559.pdf Info-Commit: Information-Theoretic Polynomial Commitment],
  IEEE Transactions on Information Forensics and Security, 2022.
 . Mahdi Soleymani, Ramy E. Ali, Hessam Mahdavifar, A. Salman Avestimehr, [https://arxiv.org/pdf/2101.11653.pdf List-Decodable Coded Computing: Breaking the Adversarial Toleration Barrier],
@@ -48,6 +45,12 @@ DNN Training and Inference]
 . Ramy E. Ali, Hany Elgala, [https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9954/995406/Energy-efficient-LED-layout-optimization-for-near-uniform-illumination/10.1117/12.2235262.pdf?casa_token=IFg6QsrQlA4AAAAA:0P5eAB8PtX1IxIKFOw2o2TOBZZqu5xU6Pju47PYavotDX5gOAlqv9kFUltbSZUVglh-x905xcg Energy Efficient LED Layout Optimization for Near-Uniform Illumination], in the Fifteenth International Conference on Solid State Lighting and LED-based Illumination Systems (SPIE Optical Engineering+ Applications), San Diego, California August 2016. (Newport Research Excellence Award)
 . Ramy E. Ali, Fadel Digham, Karim G. Seddik, Mohamed Nafie, Amr El-Keyi and Zhu Han, [https://arxiv.org/pdf/1408.2779.pdf A Probabilistic MAC for Cognitive Radio Systems with Energy Harvesting Nodes], IEEE GlobalSIP, Atlanta, Georgia, USA, Dec. 2014.
 . Ramy E. Ali, Karim G. Seddik, Mohamed Nafie and Fadel Digham, [https://arxiv.org/pdf/1312.5555.pdf A Pricing-based Cooperative Spectrum Sharing Stackelberg Game], in Proceedings of WiOpt, Hammamet, Tunisia, May 2014.
+
+== Patents
+. R. E. Ali and F. Penna,  Backpropagation-free Buffer-less Online Fine-tuning of Learning-based Wireless Models, US Patent, 2025.
+.  M. Awadin, R. E. Ali and JH Bae, Online Fine-tuning of Learning-based Wireless Models, US Patent, 2025. 
+. R.E. Ali and H. Kwon, Improving RI and CQI Leaning-based Selection through Online Adaption and Legacy Combining, US Patent, 2025
+. H. Kwon, M. Mahmoud, F. Penna, Y. Zhou, R.E. Ali, Method and Apparatus for Learning-based Channel Matrix Prediction, US Patent 20,240,063,852, 2024.
 
 == Ph.D. Dissertation
 - Harnessing Data Correlation and Network Information in Distributed Key-Value Stores, Penn State, 2020.
