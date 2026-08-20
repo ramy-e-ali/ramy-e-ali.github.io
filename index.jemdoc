@@ -19,13 +19,14 @@ I currently work on secure and private machine learning, model compression and w
 
 == News and Talks
 
+- August '26: Our work, on federated LoRA has been posted [https://arxiv.org/pdf/2608.15381 FedPA-LoRA: Product-Aligned Framework for Mitigating Aggregation and Initialization Errors in Heterogeneous Federated LoRA]
+
 - May '26: Presented our work, [https://ramy-e-ali.github.io/LightTune-Ramy-Ali-ICC26.pdf LightTune] at IEEE ICC in Glasgow 
 
 - February '26: Presented our work, [https://ramy-e-ali.github.io/LightTune-Ramy-ITA26.pdf LightTune: Lightweight Online Fine-Tuning for 6G], at the Information Theory and Applications (ITA) Workshop. 
 
 - September '25: Talk at John Hopkins University, APL, on On-Device Learning for Communication Systems and Computer Vision 
 
-- May '25: Talk at Nile University on Resource-Constrained ML and Secure Aggregation
 
 - February '25: Talk at ORNL on Private Learning with Asymmetric Flows and Multi-Round Secure Aggregation
 
