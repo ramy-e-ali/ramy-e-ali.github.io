@@ -19,7 +19,10 @@ I currently work on secure and private machine learning, model compression and w
 
 == News and Talks
 
-- August '26: Our work, on federated LoRA has been posted [https://arxiv.org/pdf/2608.15381 FedPA-LoRA: Product-Aligned Framework for Mitigating Aggregation and Initialization Errors in Heterogeneous Federated LoRA]
+- October '26: Provided a talk at Simula UiB, Norway, on
+[https://ramy-e-ali.github.io/Simula-UiB-Ramy26.pdf.pdf federated product-aligned LoRA]
+
+
 
 - May '26: Presented our work, [https://ramy-e-ali.github.io/LightTune-Ramy-Ali-ICC26.pdf LightTune] at IEEE ICC in Glasgow 
 
